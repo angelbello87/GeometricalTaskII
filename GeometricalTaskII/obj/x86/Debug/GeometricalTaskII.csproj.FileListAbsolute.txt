@@ -1,0 +1,5 @@
+c:\users\angel\documents\visual studio 2010\Projects\GeometricalTaskII\GeometricalTaskII\bin\Debug\GeometricalTaskII.exe
+c:\users\angel\documents\visual studio 2010\Projects\GeometricalTaskII\GeometricalTaskII\bin\Debug\GeometricalTaskII.pdb
+c:\users\angel\documents\visual studio 2010\Projects\GeometricalTaskII\GeometricalTaskII\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\angel\documents\visual studio 2010\Projects\GeometricalTaskII\GeometricalTaskII\obj\x86\Debug\GeometricalTaskII.exe
+c:\users\angel\documents\visual studio 2010\Projects\GeometricalTaskII\GeometricalTaskII\obj\x86\Debug\GeometricalTaskII.pdb
